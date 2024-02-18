@@ -9,6 +9,7 @@ Welcome to the Holiday Calendar web application! This project is built using Rea
 ### Features:
 
 - **View Options**: Users can switch between month and year views using a button.
+- **Choose month**: Users can switch click on a month in yearly view to view the month in monthly view.
 - **Searchbar**: The location can be changed by searching for a country in the search bar.
 - **Public Holidays**: The app utilizes an open-source API to fetch public holidays for the selected location. Holidays are displayed in the calendar, and users can view holiday details by clicking on the holiday date.
 - **Responsive Design**: The web-app is fully responsive and adapts to different screen sizes.
@@ -35,11 +36,6 @@ Welcome to the Holiday Calendar web application! This project is built using Rea
 
 <br>
 
-## 🔥 Installation
-
-This application does not require installation. It runs in a web browser and is accessible via the [deployed link]().
-
-<br>
 
 ## 🛠️ Local Development
 
