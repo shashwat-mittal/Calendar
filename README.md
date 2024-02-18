@@ -73,4 +73,12 @@ npm run dev
 
 <br>
 
+## 🖼️ Screenshot
+
+![Monthly view](<https://github.com/shashwat-mittal/Calendar/blob/main/src/assets/Screenshot%20(9).png>)
+
+<br>
+
+![Yearly view](<https://github.com/shashwat-mittal/Calendar/blob/main/src/assets/Screenshot%20(10).png>)
+
 
